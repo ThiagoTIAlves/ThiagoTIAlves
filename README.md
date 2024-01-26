@@ -1,11 +1,17 @@
-## Olá, meu nome é Thiago Alves
+## 👋 Olá, sou Thiago Alves!
 
-### 🎓 30 anos e estudante de Bacharelado em Ciência de Dados na XP Educação.
+### 🎓 Pós-Graduado em Engenharia de Software
+### 🎓 Pós-Graduado em Gestão Pública
+### 🎓 Graduado em Tecnologia em Análise e Desenvolvimento de Sistemas
 
-### 🚀 Estudando para ser analista de dados/BI.
+### 🚀 Apaixonado por desenvolvimento de software, sou um profissional comprometido com a excelência técnica e a busca contínua por conhecimento. Minha formação abrange tanto os aspectos técnicos da Engenharia de Software quanto a expertise em Gestão Pública.
 
-### 💻 Aprendendo Python, Power BI, SQL e Excel.
+### 💻 Minha jornada acadêmica e profissional me proporcionou uma base sólida para enfrentar desafios complexos, desde o desenvolvimento de sistemas até a gestão eficiente de projetos.
 
-### 🌟 Objetivo: fazer a diferença com dados e gráficos legais.
+### 🌐 Estou sempre explorando novas tecnologias e práticas inovadoras para aprimorar minhas habilidades e contribuir de maneira significativa para projetos que impactam positivamente a sociedade.
+
+📚 Além da minha formação acadêmica, busco constantemente certificações e aprimoramento em práticas ágeis, garantindo que meus projetos estejam alinhados com as melhores práticas da indústria.
+
+✨ Seja bem-vindo(a) ao meu perfil! Vamos colaborar e construir juntos!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoTIAlves&hide=stars,title&show_icons=true&theme=gotham&bg_color=00000000) ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoTIAlves&layout=compact&theme=gotham&bg_color=00000000)
